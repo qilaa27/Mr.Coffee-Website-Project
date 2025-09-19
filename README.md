@@ -9,11 +9,11 @@ I designed and developed a responsive website for **MR.COFFEE**, a fictional cof
 
 This project brings MR.COFFEE's in-store experience into a digital platform, allowing users to explore menus, earn rewards, read about the company story, and place orders with ease. The website also reflects the brand’s values — warmth, creativity, and connection.
 
-[images/AboutUsPage.png](https://github.com/user-attachments/assets/46f7349f-c32a-4046-9966-c3d49165ccdd)
+https://github.com/user-attachments/assets/46f7349f-c32a-4046-9966-c3d49165ccdd 
 
-images/MenuPage.png
+https://github.com/user-attachments/assets/ce030359-5dfa-4ae4-8213-ed7ea78005b3 
 
-images/OrderPage.png
+https://github.com/user-attachments/assets/1484714c-1741-4527-afd8-29bfeef9cbe6 
 
 ### 💡 Key Features
 
