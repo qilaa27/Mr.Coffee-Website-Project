@@ -1,4 +1,4 @@
-# ☕ MR.COFFEE – Brewing Digital Connections
+# ☕ MR.COFFEE – Roasted with Love, Served with Passion
 
 Final project for **Human-Computer Interaction** course.  
 I designed and developed a responsive website for **MR.COFFEE**, a fictional coffee shop known for its cozy vibes, artistic charm, and community spirit. The site was built using HTML, CSS, and JavaScript, and emphasizes intuitive design, usability, and mobile responsiveness.
