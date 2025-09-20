@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "build": "[my-framework] build --output public"
+    "build": "echo 'no build script'"
   },
   "dependencies": {
     "my-v0-project": "file:"
