@@ -9,6 +9,8 @@ I designed and developed a responsive website for **MR.COFFEE**, a fictional cof
 
 This project brings MR.COFFEE's in-store experience into a digital platform, allowing users to explore menus, earn rewards, read about the company story, and place orders with ease. The website also reflects the brand’s values — warmth, creativity, and connection.
 
+![About Us Page](AboutUsPage.png)
+
 ### 💡 Key Features
 
 - **Home Page**:  
