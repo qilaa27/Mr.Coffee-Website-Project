@@ -19,7 +19,7 @@ This project brings MR.COFFEE's in-store experience into a digital platform, all
 - **Rewards Page**:  
   Promo and reward details, app download prompts (Play Store & App Store).
 
-  ![Rewards Page](RewardPage.png)
+  ![Reward Page](RewardPage.png)
 
 - **About Us Page**:  
   Company mission, vision, full story, and CEO profile.
