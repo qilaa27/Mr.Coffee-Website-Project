@@ -13,19 +13,28 @@ This project brings MR.COFFEE's in-store experience into a digital platform, all
 
 - **Home Page**:  
   Engaging banner, top 5 most-ordered products, highlight of current reward, and a CEO spotlight.
+  
   ![Home Page](HomePage.png)
 
 - **Rewards Page**:  
   Promo and reward details, app download prompts (Play Store & App Store).
 
+  ![Rewards Page](RewardPage.png)
+
 - **About Us Page**:  
   Company mission, vision, full story, and CEO profile.
+
+  ![About Us Page](AboutUsPage.png)
 
 - **Menu Page**:  
   Interactive filterable menu (Espresso, Frappe, Bread, etc.), dynamic content switch.
 
+  ![Menu Page](MenuPage.png)
+
 - **Order Page**:  
   Functional form (with validation) for placing online orders — includes add-ons, price display, and JavaScript-based checks (without regex).
+
+  ![Order Page](OrderPage.png)
 
 ---
 
